@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Anonymous Feedback App (In Development)
+Welcome to my Anonymous Feedback App! 🚀 This project is currently in the development phase and not yet complete. I'm actively working on building a secure and user-friendly platform where users can share honest feedback anonymously.
 
-## Getting Started
+About the Project
+The app will allow users to submit anonymous feedback and enable admins to manage and analyze responses. It's designed for workplaces, educational institutions, or any environment that values constructive, transparent feedback.
 
-First, run the development server:
+Tech Stack
+Frontend: React, Vite, TailwindCSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT for secure access
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Current Status
+This project is in development. Features are being built and tested, and the design is evolving to ensure the best user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Planned Features
+Anonymous feedback submission
+Admin dashboard for management
+Real-time feedback analysis
+User-friendly interface
+Secure data management
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Upcoming Additions
+Feedback categorization and search
+Analytics and reports
+Email notifications for admins
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Stay Updated
+I'm excited to bring this app to life and will be sharing progress updates soon. If you have feedback, suggestions, or are interested in collaborating, feel free to reach out!
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Note: This project is a work in progress, so expect continuous improvements
